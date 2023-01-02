@@ -1,0 +1,8 @@
+Javascript Concepts Used in the Development:
+#1. DOM [getElementById, querySelector, querySelectorAll, addEventListener]
+#2. Variables [let, const]
+#3. Function [regular function]
+#4. Conditionals [if else]
+#5. Comparison and Logical Operators [< > == && (and)]
+#6. Strings and Numbers [loop (for loop), template literals, interpolations]
+#7. Date Object [.getHours(), .getMinutes(), .getSeconds()]
